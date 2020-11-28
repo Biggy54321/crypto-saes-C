@@ -120,3 +120,7 @@ $> ./saes_enc <key> | ./saes_dec <key>
 <plaintext_msg> (input)
 <plaintext_msg> (output)
 ```
+
+### References
+
+http://read.pudn.com/downloads222/ebook/1044300/%E9%99%84%E5%BD%95P%20Simplified%20AES%20(S-AES).pdf
